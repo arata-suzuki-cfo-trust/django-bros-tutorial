@@ -4,3 +4,4 @@ media
 djangobros_venv
 photoservice_venv
 .env
+photoservice-key.pem
